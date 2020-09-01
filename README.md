@@ -1,0 +1,1 @@
+This is st-kz's first git project!
